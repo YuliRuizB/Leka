@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "default": "LEKA",
+    "LEKA": "leka-b1f57"
+  },
+  "targets": {
+    "leka-b1f57": {
+      "hosting": {
+        "admin-bus2u-dev": [
+          "admin-bus2u-dev"
+        ]
+      }
+    },
+    "LEKA": {
+      "hosting": {
+        "enlink": [
+          "leka-b1f57"
+        ]
+      }
+    }
+  }
+}
